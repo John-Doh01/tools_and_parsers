@@ -13,6 +13,8 @@ These are plugins not bundled with Jen Template from various sources.
     - Used to pull categories, vides, etc. from the collectionofbestporn.com website
 - colorize
     - Plugin for letting users select from a list of colors. Can be used to colorize menu titles the way you want
+- docheaven
+    - Pulls free documentaries from a specific site by category
 - hesgoal
     - Returns Sports Games from hesgoal
 - lastfm
@@ -35,6 +37,8 @@ These are plugins not bundled with Jen Template from various sources.
     - Useful tools for menu items, such as to mark an item non-clickable or open settings to a specific tab and section
 - toonova
     - Pulls cartoons and movies from a specific site, with 3-4 sources per (No subbed/dubbed)
+- topdocs
+    - Pulls free documentaries from a specific site by category
 - tvmaze
     - Pulls network and show information from the tvmaze website
 - views
